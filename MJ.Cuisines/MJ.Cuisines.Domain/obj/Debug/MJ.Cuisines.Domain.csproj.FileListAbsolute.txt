@@ -1,0 +1,6 @@
+C:\Development\Personal\Applications\MJ.Cuisines\MJ.Cuisines.Domain\bin\Debug\MJ.Cuisines.Domain.dll
+C:\Development\Personal\Applications\MJ.Cuisines\MJ.Cuisines.Domain\bin\Debug\MJ.Cuisines.Domain.pdb
+C:\Development\Personal\Applications\MJ.Cuisines\MJ.Cuisines.Domain\obj\Debug\MJ.Cuisines.Domain.csprojAssemblyReference.cache
+C:\Development\Personal\Applications\MJ.Cuisines\MJ.Cuisines.Domain\obj\Debug\MJ.Cuisines.Domain.csproj.CoreCompileInputs.cache
+C:\Development\Personal\Applications\MJ.Cuisines\MJ.Cuisines.Domain\obj\Debug\MJ.Cuisines.Domain.dll
+C:\Development\Personal\Applications\MJ.Cuisines\MJ.Cuisines.Domain\obj\Debug\MJ.Cuisines.Domain.pdb

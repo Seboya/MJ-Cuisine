@@ -1,0 +1,107 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Development\\Personal\\Applications\\MJ.Cuisines\\MJ.Cuisines.MobileApp\\MJ.Cuisines.MobileApp\\MJ.Cuisines.MobileApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Development\\Personal\\Applications\\MJ.Cuisines\\MJ.Cuisines.Domain\\MJ.Cuisines.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Development\\Personal\\Applications\\MJ.Cuisines\\MJ.Cuisines.Domain\\MJ.Cuisines.Domain.csproj",
+        "projectName": "MJ.Cuisines.Domain",
+        "projectPath": "C:\\Development\\Personal\\Applications\\MJ.Cuisines\\MJ.Cuisines.Domain\\MJ.Cuisines.Domain.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Development\\Personal\\Applications\\MJ.Cuisines\\MJ.Cuisines.MobileApp\\MJ.Cuisines.MobileApp\\MJ.Cuisines.MobileApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Development\\Personal\\Applications\\MJ.Cuisines\\MJ.Cuisines.MobileApp\\MJ.Cuisines.MobileApp\\MJ.Cuisines.MobileApp.csproj",
+        "projectName": "MJ.Cuisines.MobileApp",
+        "projectPath": "C:\\Development\\Personal\\Applications\\MJ.Cuisines\\MJ.Cuisines.MobileApp\\MJ.Cuisines.MobileApp\\MJ.Cuisines.MobileApp.csproj",
+        "packagesPath": "C:\\Users\\Marumo-PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\Personal\\Applications\\MJ.Cuisines\\MJ.Cuisines.MobileApp\\MJ.Cuisines.MobileApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marumo-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Development\\Personal\\Applications\\MJ.Cuisines\\MJ.Cuisines.Domain\\MJ.Cuisines.Domain.csproj": {
+                "projectPath": "C:\\Development\\Personal\\Applications\\MJ.Cuisines\\MJ.Cuisines.Domain\\MJ.Cuisines.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Prism.DryIoc.Forms": {
+              "target": "Package",
+              "version": "[7.2.0.1367, )"
+            },
+            "Xamarin.FFImageLoading": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.FFImageLoading.Forms": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.FFImageLoading.Svg": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.FFImageLoading.Svg.Forms": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[3.6.0.344457, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

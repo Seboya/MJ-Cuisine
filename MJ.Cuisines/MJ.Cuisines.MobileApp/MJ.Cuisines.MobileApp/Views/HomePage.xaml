@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="MJ.Cuisines.MobileApp.Views.HomePage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+    xmlns:prism="http://prismlibrary.com"
+    prism:ViewModelLocator.AutowireViewModel="True">
+
+    <Grid>
+        <ListView HasUnevenRows="True" ItemsSource="{Binding Products}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                            </Grid.RowDefinitions>
+
+                            <ffimageloading:CachedImage
+                                Grid.RowSpan="3"
+                                DownsampleToViewSize="true"
+                                HeightRequest="30"
+                                HorizontalOptions="Center"
+                                Source="http://loremflickr.com/600/600/nature?filename=simple.jpg"
+                                VerticalOptions="Center"
+                                WidthRequest="30" />
+
+                            <Label
+                                Grid.Row="0"
+                                Grid.Column="1"
+                                Text="Product Name" />
+                            <Label
+                                Grid.Row="1"
+                                Grid.Column="1"
+                                LineBreakMode="TailTruncation"
+                                Text="http://loremflickr.com/600/600/nature?filename=simple.jpg" />
+                            <Label
+                                Grid.Row="2"
+                                Grid.Column="1"
+                                HorizontalTextAlignment="End"
+                                Text="Product Name" />
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+
+</ContentPage>

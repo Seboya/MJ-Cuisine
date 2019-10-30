@@ -1,0 +1,15 @@
+C:\Development\Personal\Applications\MJ.Cuisines\MJ.Cuisines.MobileApp\MJ.Cuisines.MobileApp\bin\Debug\netstandard2.0\MJ.Cuisines.MobileApp.deps.json
+C:\Development\Personal\Applications\MJ.Cuisines\MJ.Cuisines.MobileApp\MJ.Cuisines.MobileApp\bin\Debug\netstandard2.0\MJ.Cuisines.MobileApp.dll
+C:\Development\Personal\Applications\MJ.Cuisines\MJ.Cuisines.MobileApp\MJ.Cuisines.MobileApp\bin\Debug\netstandard2.0\MJ.Cuisines.MobileApp.pdb
+C:\Development\Personal\Applications\MJ.Cuisines\MJ.Cuisines.MobileApp\MJ.Cuisines.MobileApp\bin\Debug\netstandard2.0\MJ.Cuisines.Domain.dll
+C:\Development\Personal\Applications\MJ.Cuisines\MJ.Cuisines.MobileApp\MJ.Cuisines.MobileApp\bin\Debug\netstandard2.0\MJ.Cuisines.Domain.pdb
+C:\Development\Personal\Applications\MJ.Cuisines\MJ.Cuisines.MobileApp\MJ.Cuisines.MobileApp\obj\Debug\netstandard2.0\MJ.Cuisines.MobileApp.csprojAssemblyReference.cache
+C:\Development\Personal\Applications\MJ.Cuisines\MJ.Cuisines.MobileApp\MJ.Cuisines.MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Development\Personal\Applications\MJ.Cuisines\MJ.Cuisines.MobileApp\MJ.Cuisines.MobileApp\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Development\Personal\Applications\MJ.Cuisines\MJ.Cuisines.MobileApp\MJ.Cuisines.MobileApp\obj\Debug\netstandard2.0\MJ.Cuisines.MobileApp.csproj.CoreCompileInputs.cache
+C:\Development\Personal\Applications\MJ.Cuisines\MJ.Cuisines.MobileApp\MJ.Cuisines.MobileApp\obj\Debug\netstandard2.0\MJ.Cuisines.MobileApp.AssemblyInfoInputs.cache
+C:\Development\Personal\Applications\MJ.Cuisines\MJ.Cuisines.MobileApp\MJ.Cuisines.MobileApp\obj\Debug\netstandard2.0\MJ.Cuisines.MobileApp.AssemblyInfo.cs
+C:\Development\Personal\Applications\MJ.Cuisines\MJ.Cuisines.MobileApp\MJ.Cuisines.MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Development\Personal\Applications\MJ.Cuisines\MJ.Cuisines.MobileApp\MJ.Cuisines.MobileApp\obj\Debug\netstandard2.0\MJ.Cuisines.MobileApp.csproj.CopyComplete
+C:\Development\Personal\Applications\MJ.Cuisines\MJ.Cuisines.MobileApp\MJ.Cuisines.MobileApp\obj\Debug\netstandard2.0\MJ.Cuisines.MobileApp.dll
+C:\Development\Personal\Applications\MJ.Cuisines\MJ.Cuisines.MobileApp\MJ.Cuisines.MobileApp\obj\Debug\netstandard2.0\MJ.Cuisines.MobileApp.pdb
